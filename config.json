@@ -1,0 +1,8 @@
+{
+  "token": "DISCORD_BOT_TOKEN", //Für mehr Information: https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot
+  "prefix": "g!",
+  "botinvite": "DISCORD_BOT_INVITE", //Für mehr Information: https://discordjs.guide/preparations/adding-your-bot-to-servers.html#bot-invite-links
+  "supportlink": "Website oder Serverinvite",
+  "ownerid": "OWNER_ID", 
+  "ownername": "OWNER_NAME(Owner#0000)"
+}
